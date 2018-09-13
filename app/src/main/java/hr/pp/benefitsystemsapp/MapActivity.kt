@@ -27,6 +27,7 @@ class MapActivity : AppCompatActivity() {
             val center=LatLng(45.793460,15.919430)
             val location1=LatLng(45.7,15.9)
             //lalalalalal
+            //lilailalila
 
             googleMap.isMyLocationEnabled = true
 
